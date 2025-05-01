@@ -17,10 +17,8 @@ This is a 3D space simulation using [Three.js](https://threejs.org/). It feature
 ### 🌍 Earth and Moon
 ![Earth and Moon](images/earth-moon1.png)
 
-### 🌌 Starfield Background
 ![Starfield](images/earth-moon2.png)
 
-> Save your screenshots in an `images/` folder.
 
 ---
 
