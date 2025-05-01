@@ -6,7 +6,7 @@ This is a 3D space simulation using [Three.js](https://threejs.org/). It feature
 
 ## 🚀 Live Preview
 
-🔗 [Click here to view the live demo](https://your-preview-link.com)
+🔗 [Click here to view the live demo](https://earth-moon-6v0hp3tpj-rajnisht7s-projects.vercel.app/)
 
 > Replace the link with your actual deployment (GitHub Pages, Netlify, or Vercel).
 
